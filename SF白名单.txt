@@ -68,7 +68,7 @@ _G.SF=true
 elseif a=="china_dm8"then
 _G.SF=true
 
-elseif a=="用户名"then
+elseif a=="AAA_XIAOCH"then
 _G.SF=true
 
 elseif a=="用户名"then
