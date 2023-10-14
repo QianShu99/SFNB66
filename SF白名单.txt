@@ -1,112 +1,105 @@
-if game.Players.LocalPlayer.Name == "YUHY8888" then Con = true end
+if game.PlaceId == "YUHY8888" then Con = true end
  
-if game.Players.LocalPlayer.Name == "JIAXUANmm" then Con = true end
+if game.PlaceId == "JIAXUANmm" then Con = true end
 
-if game.Players.LocalPlayer.Name == "Awing707" then Con = true end
+if game.PlaceId == "Awing707" then Con = true end
 
-if game.Players.LocalPlayer.Name == "Awing307" then Con = true end 
+if game.PlaceId == "Awing307" then Con = true end 
 
-if game.Players.LocalPlayer.Name == "asdmnb956" then Con = true end
+if game.PlaceId == "asdmnb956" then Con = true end
 
-if game.Players.LocalPlayer.Name == "8umoghgghh" then Con = true end
+if game.PlaceId == "8umoghgghh" then Con = true end
 
-if game.Players.LocalPlayer.Name == "hvcgibn" then Con = true end
+if game.PlaceId == "hvcgibn" then Con = true end
 
-if game.Players.LocalPlayer.Name == "54sz6" then Con = true end
+if game.PlaceId == "54sz6" then Con = true end
 
-if game.Players.LocalPlayer.Name == "otplatitidk" then Con = true end
+if game.PlaceId == "otplatitidk" then Con = true end
 
-if game.Players.LocalPlayer.Name == "qwq114514sansqwq" then Con = true end
+if game.PlaceId == "qwq114514sansqwq" then Con = true end
 
-if game.Players.LocalPlayer.Name == "twoha114514" then Con = true end
+if game.PlaceId == "twoha114514" then Con = true end
 
-if game.Players.LocalPlayer.Name == "riteghgtgh" then Con = true end
+if game.PlaceId == "riteghgtgh" then Con = true end
 
-if game.Players.LocalPlayer.Name == "yhgfgvc6" then Con = true end
+if game.PlaceId == "yhgfgvc6" then Con = true end
 
-if game.Players.LocalPlayer.Name == "ej554l" then Con = true end
+if game.PlaceId == "ej554l" then Con = true end
 
-if game.Players.LocalPlayer.Name == "Qianglingkou" then Con = true end
+if game.PlaceId == "Qianglingkou" then Con = true end
 
-if game.Players.LocalPlayer.Name == "jdjssjjsjsjs9" then Con = true end
+if game.PlaceId == "jdjssjjsjsjs9" then Con = true end
 
-if game.Players.LocalPlayer.Name == "ks_yangnb6666" then Con = true end
+if game.PlaceId == "ks_yangnb6666" then Con = true end
 
-if game.Players.LocalPlayer.Name == "china_dm8" then Con = true end
+if game.PlaceId == "china_dm8" then Con = true end
 
-if game.Players.LocalPlayer.Name == "AAA_XIAOCH" then Con = true end
+if game.PlaceId == "AAA_XIAOCH" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.PlaceId == "用户" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户13" then Con = true end
+if game.PlaceId == "用户13" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户14" then Con = true end
+if game.PlaceId == "用户14" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户15" then Con = true end
+if game.PlaceId == "用户15" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户16" then Con = true end
+if game.PlaceId == "用户16" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户17" then Con = true end
+if game.PlaceId == "用户17" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户18" then Con = true end
+if game.PlaceId == "用户18" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户19" then Con = true end
+if game.PlaceId == "用户19" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户20" then Con = true end
+if game.PlaceId == "用户20" then Con = true end
 
 if Con == true then
 
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
-msg.Text = "-检测到您在白名单内-"
-wait(2)
-msg:remove()
-wait(2)
-
-msg = Instance.new("Message")
-msg.Parent = game.Workspace
 msg.Text = "公告:今天云端被乐子水杯偷库了 水杯户籍已出"
-wait(6)
+wait(2)
 msg:remove()
 wait(2)
 
@@ -119,7 +112,7 @@ wait(2)
 
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
-msg.Text = "正在加载SF内部版…"
+msg.Text = "正在加载SF内部版"
 wait(2)
 msg:remove()
 wait(2)
