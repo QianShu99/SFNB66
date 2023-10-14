@@ -1,0 +1,111 @@
+local CoreGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+    Title = "检测SF白名单中",
+    Text = "正在验证....",
+    Duration = 3, --时间
+})
+
+local a=tostring(game.Players.LocalPlayer.Character);
+
+if a=="YUHY8888"then
+_G.SF=true
+
+elseif a=="JIAXUANmm"then
+_G.SF=true
+
+elseif a=="Awing707"then
+_G.SF=true
+
+elseif a=="Awing307"then
+_G.SF=true
+
+elseif a=="asdmnb956"then
+_G.SF=true
+
+elseif a=="8umoghgghh"then
+_G.SF=true
+
+elseif a=="hvcgibn"then
+_G.SF=true
+
+elseif a=="54sz6"then
+_G.SF=true
+
+elseif a=="YUHY8888"then
+_G.SF=true
+
+elseif a=="otplatitidk"then
+_G.SF=true
+
+elseif a=="qwq114514sansqwq"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+end
+if _G.SF==true then
+    local CoreGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+    Title = "验证白名单结果",
+    Text = a.." SF内部欢迎你",
+    Duration = 5,
+})
+
+msg = Instance.new("Message")
+msg.Parent = game.Workspace
+msg.Text = "-欢迎尊贵的SF内部用户-"
+wait(2)
+msg:remove()
+wait(2)
+
+msg = Instance.new("Message")
+msg.Parent = game.Workspace
+msg.Text = "正在加载SF内部版"
+wait(2)
+msg:remove()
+wait(2)
+
+  wait(5) --等待三秒
+--------------------------------------------
+if game.PlaceId == 8888615802 or game.PlaceId == 13622981808 then
+else
+    loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E9%80%9A.lua"))()
+end
+--------------------------------------------
+    else
+setclipboard("637340150")
+local CoreGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+    Title = "你未购买SF内部",
+    Text = "你并没有白名单已复制QQ群号",
+    Duration = 5,
+})
+end
+
