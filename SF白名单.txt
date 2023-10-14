@@ -50,6 +50,36 @@ _G.SF=true
 elseif a=="gdgdcfxhgxf"then
 _G.SF=true
 
+elseif a=="ej554l"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
+elseif a=="用户名"then
+_G.SF=true
+
 elseif a=="用户名"then
 _G.SF=true
 
