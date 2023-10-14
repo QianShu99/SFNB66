@@ -44,7 +44,7 @@ _G.SF=true
 elseif a=="twoha114514"then
 _G.SF=true
 
-elseif a=="用户名"then
+elseif a=="riteghgtgh"then
 _G.SF=true
 
 elseif a=="用户名"then
