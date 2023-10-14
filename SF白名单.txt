@@ -44,7 +44,7 @@ _G.SF=true
 elseif a=="AAA_XIAOCH"then
 _G.SF=true
 
-elseif a=="用户名"then
+elseif a=="Qianglingkou"then
 _G.SF=true
 
 elseif a=="用户名"then
