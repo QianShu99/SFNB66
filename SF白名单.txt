@@ -66,5 +66,5 @@ else
 end
 else
 
-   game.Players.LocalPlayer:Kick("请加入SF白名单")
+   game.Players.LocalPlayer:Kick("请加入SF白名单 水杯无脑乐子 户籍已出")
 end
