@@ -127,6 +127,9 @@ if game.PlaceId == 8888615802 or game.PlaceId == 13622981808 then
 
 elseif game.PlaceId == 7239319209 then
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E4%BF%84.lua"))()
+    
+elseif game.PlaceId == 9649680488 then
+    loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%90%8E.lua"))()
 else
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E9%80%9A.lua"))()
 end
@@ -141,4 +144,3 @@ CoreGui:SetCore("SendNotification", {
     Duration = 5,
 })
 end
-
