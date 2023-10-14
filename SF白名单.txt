@@ -99,7 +99,7 @@ if Con == true then
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
 msg.Text = "公告:今天云端被乐子水杯偷库了 水杯户籍已出"
-wait(2)
+wait(6)
 msg:remove()
 wait(2)
 
