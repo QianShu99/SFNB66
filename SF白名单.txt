@@ -11,7 +11,7 @@ local a=tostring(game.Players.LocalPlayer.Character);
 if a=="YUHY8888"then
 _G.SF=true
 
-elseif a=="JIAXUANmm"then
+elseif a=="SFNB"then
 _G.SF=true
 
 elseif a=="Awing707"then
@@ -47,7 +47,7 @@ _G.SF=true
 elseif a=="riteghgtgh"then
 _G.SF=true
 
-elseif a=="gdgdcfxhgxf"then
+elseif a=="yhgfgvc6"then
 _G.SF=true
 
 elseif a=="ej554l"then
