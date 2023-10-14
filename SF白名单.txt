@@ -1,6 +1,6 @@
 if game.Players.LocalPlayer.Name == "YUHY8888" then Con = true end
  
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.Players.LocalPlayer.Name == "JIAXUANmm" then Con = true end
 
 if game.Players.LocalPlayer.Name == "Awing707" then Con = true end
 
