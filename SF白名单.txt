@@ -32,7 +32,7 @@ _G.SF=true
 elseif a=="54sz6"then
 _G.SF=true
 
-elseif a=="YUHY8888"then
+elseif a=="twoha114514"then
 _G.SF=true
 
 elseif a=="otplatitidk"then
