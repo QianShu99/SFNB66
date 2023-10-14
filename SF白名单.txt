@@ -1,1 +1,70 @@
+if game.Players.LocalPlayer.Name == "YUHY8888" then Con = true end
+ 
+if game.Players.LocalPlayer.Name == "JIAXUANmm" then Con = true end
 
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end 
+
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户名" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户10" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户11" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户12" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户13" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户14" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户15" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户16" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户17" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户18" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户19" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户20" then Con = true end
+
+if Con == true then
+
+if game.PlaceId == 8888615802 or game.PlaceId == 13622981808 then
+
+elseif game.PlaceId == 7239319209 then
+    loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E4%BF%84.lua"))()
+    
+elseif game.PlaceId == 9649680488 then
+    loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%90%8E.lua"))()
+else
+    loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E9%80%9A.lua"))()
+end
+else
+
+   game.Players.LocalPlayer:Kick("请加入SF白名单")
+end
