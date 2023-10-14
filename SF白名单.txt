@@ -62,7 +62,7 @@ _G.SF=true
 elseif a=="lsqls1"then
 _G.SF=true
 
-elseif a=="用户名"then
+elseif a=="ks_yangnb6666"then
 _G.SF=true
 
 elseif a=="用户名"then
