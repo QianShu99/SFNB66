@@ -32,7 +32,7 @@ _G.SF=true
 elseif a=="54sz6"then
 _G.SF=true
 
-elseif a=="twoha114514"then
+elseif a=="YUHY8888"then
 _G.SF=true
 
 elseif a=="otplatitidk"then
@@ -41,10 +41,10 @@ _G.SF=true
 elseif a=="qwq114514sansqwq"then
 _G.SF=true
 
-elseif a=="AAA_XIAOCH"then
+elseif a=="用户名"then
 _G.SF=true
 
-elseif a=="Qianglingkou"then
+elseif a=="用户名"then
 _G.SF=true
 
 elseif a=="用户名"then
@@ -94,6 +94,9 @@ wait(2)
   wait(5) --等待三秒
 --------------------------------------------
 if game.PlaceId == 8888615802 or game.PlaceId == 13622981808 then
+
+elseif game.PlaceId == 7239319209 then
+    loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E4%BF%84.lua"))()
 else
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E9%80%9A.lua"))()
 end
