@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet("https://raw.github.com/QianShu99/jiaUI/main/JianXuan2.0.lua"))()
 
-local Window = OrionLib:MakeWindow({Name = "TP附属", HidePremium = false, IntroText = "SF TP"})
+local Window = OrionLib:MakeWindow({Name = "SF附属", HidePremium = false, IntroText = "SF TP"})
 
     local TeleportTab = Window:MakeTab({
 	    Name = "传送功能",
