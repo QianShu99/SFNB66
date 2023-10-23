@@ -98,7 +98,7 @@ if Con == true then
 
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
-msg.Text = "支持游戏 后厅竞赛 监狱人生 极速传奇 俄亥俄州"
+msg.Text = "支持游戏 后厅竞赛 监狱人生 极速传奇 俄亥俄州 彩虹好友"
 wait(2)
 msg:remove()
 wait(2)
@@ -118,6 +118,9 @@ msg:remove()
 wait(2)
 
 if game.PlaceId == 8888615802 or game.PlaceId == 13622981808 then
+
+elseif game.PlaceId == 7991339063 then
+loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%BD%A9.lua"))()
 
 elseif game.PlaceId == 7239319209 then
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E4%BF%84.lua"))()
