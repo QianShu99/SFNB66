@@ -28,7 +28,7 @@ if game.Players.LocalPlayer.Name == "jsnxvxos" then Con = true end
 
 if game.Players.LocalPlayer.Name == "Qianglingkou" then Con = true end
 
-if game.Players.LocalPlayer.Name == "jdjssjjsjsjs9" then Con = true end
+if game.Players.LocalPlayer.Name == "ksxingmo" then Con = true end
 
 if game.Players.LocalPlayer.Name == "ks_yangnb6666" then Con = true end
 
