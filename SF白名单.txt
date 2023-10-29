@@ -118,12 +118,10 @@ msg:remove()
 wait(2)
 
 if game.PlaceId == 8888615802 or game.PlaceId == 13622981808 then
+loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%BD%A9.lua"))()
 
 elseif game.PlaceId == 3956818381 then
 loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%BF%8D.lua"))()
-
-elseif game.PlaceId == 155615604 then
-loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%BD%A9.lua"))()
 
 elseif game.PlaceId == 7239319209 then
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E4%BF%84.lua"))()
@@ -131,7 +129,7 @@ elseif game.PlaceId == 7239319209 then
 elseif game.PlaceId == 9649680488 then
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%90%8E.lua"))()
     
-elseif game.PlaceId == 3085257211 then
+elseif game.PlaceId == 155615604 then
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E7%9B%91.lua"))()
     
 elseif game.PlaceId == 3101667897 then
