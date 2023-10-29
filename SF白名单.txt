@@ -131,7 +131,7 @@ elseif game.PlaceId == 7239319209 then
 elseif game.PlaceId == 9649680488 then
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%90%8E.lua"))()
     
-elseif game.PlaceId == 155615604 then
+elseif game.PlaceId == 3085257211 then
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E7%9B%91.lua"))()
     
 elseif game.PlaceId == 3101667897 then
