@@ -122,7 +122,7 @@ if game.PlaceId == 8888615802 or game.PlaceId == 13622981808 then
 elseif game.PlaceId == 3956818381 then
 loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%BF%8D.lua"))()
 
-elseif game.PlaceId == 7991339063 then
+elseif game.PlaceId == 155615604 then
 loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%BD%A9.lua"))()
 
 elseif game.PlaceId == 7239319209 then
@@ -140,7 +140,7 @@ elseif game.PlaceId == 3101667897 then
 else
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E9%80%9A.lua"))()
 end
-else
 
+else
    game.Players.LocalPlayer:Kick("请加入SF白名单")
 end
