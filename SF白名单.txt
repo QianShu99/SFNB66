@@ -1,3 +1,8 @@
+TL = Instance.new("TextLabel", Instance.new("ScreenGui", game.CoreGui))
+TL.BackgroundTransparency = 1
+TL.Size = UDim2.new(0, 100, 0, 50)
+TL.Text = "神罚内部"
+
 if game.Players.LocalPlayer.Name == "YUHY8888" then Con = true end
  
 if game.Players.LocalPlayer.Name == "JIAXUANmm" then Con = true end
@@ -98,7 +103,7 @@ if Con == true then
 
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
-msg.Text = "支持游戏 忍者传奇 后厅竞赛 监狱人生 极速传奇 俄亥俄州 彩虹好友"
+msg.Text = "支持游戏 刀刃球 忍者传奇 后厅竞赛 监狱人生 极速传奇 俄亥俄州 彩虹好友"
 wait(2)
 msg:remove()
 wait(2)
@@ -120,6 +125,17 @@ msg:remove()
 wait(6)
 
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%BD%A9.lua"))()
+-----------------------
+elseif game.PlaceId == 13772394625 then
+msg = Instance.new("Message")
+msg.Parent = game.Workspace
+msg.Text = "正在加载刀刃球"
+wait(6)
+msg:remove()
+wait(6)
+
+    loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%88%80.lua"))()
+---------------------
 
 elseif game.PlaceId == 3956818381 then
 msg = Instance.new("Message")
