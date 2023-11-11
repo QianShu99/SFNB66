@@ -68,7 +68,7 @@ if game.Players.LocalPlayer.Name == "CN_MTBC" then Con = true end
 
 if game.Players.LocalPlayer.Name == "KGFHEDDD" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.Players.LocalPlayer.Name == "ppx_nb666" then Con = true end
 
 if game.Players.LocalPlayer.Name == "用户" then Con = true end
 
