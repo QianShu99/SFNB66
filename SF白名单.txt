@@ -1,5 +1,5 @@
 TL = Instance.new("TextLabel", Instance.new("ScreenGui", game.CoreGui))
-TL.BackgroundTransparency = 2
+TL.BackgroundTransparency = 1
 TL.Size = UDim2.new(1, 1, 1, 1)
 TL.Text = "神罚内部"
 
