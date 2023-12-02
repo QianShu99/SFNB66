@@ -1,7 +1,4 @@
-TL = Instance.new("TextLabel", Instance.new("ScreenGui", game.CoreGui))
-TL.BackgroundTransparency = 1
-TL.Size = UDim2.new(1, 1, 1, 1)
-TL.Text = "神罚内部"
+
 
 if game.Players.LocalPlayer.Name == "YUHY8888" then Con = true end
  
@@ -77,7 +74,7 @@ if game.Players.LocalPlayer.Name == "ppx_nb666" then Con = true end
 
 if game.Players.LocalPlayer.Name == "lxm645" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.Players.LocalPlayer.Name == "ThePeltTMT" then Con = true end
 
 if game.Players.LocalPlayer.Name == "用户" then Con = true end
 
