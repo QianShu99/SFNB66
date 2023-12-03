@@ -100,14 +100,14 @@ if Con == true then
 
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
-msg.Text = "支持游戏 刀刃球 忍者传奇 后厅竞赛 监狱人生 极速传奇 俄亥俄州 彩虹好友"
+msg.Text = "支持游戏 刀刃球 忍者传奇 后厅竞赛 监狱人生 极速传奇 俄亥俄州 彩虹好友 力量传奇"
 wait(2)
 msg:remove()
 wait(2)
 
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
-msg.Text = "-欢迎尊贵的SF内部用户-"
+msg.Text = "-欢迎尊贵的刺客内部用户-"
 wait(2)
 msg:remove()
 wait(2)
@@ -188,6 +188,18 @@ wait(6)
 
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E6%9E%81.lua"))()
     
+   elseif game.PlaceId == 3623096087 then
+
+msg = Instance.new("Message")
+msg.Parent = game.Workspace
+msg.Text = "正在加载力量传奇"
+wait(6)
+msg:remove()
+wait(6)
+
+    loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%8A%9B.lua"))()
+     
+    
 else
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
@@ -207,5 +219,5 @@ wait(2)
 end
 
 else
-   game.Players.LocalPlayer:Kick("请加入SF白名单  官方QQ群637340150")
+   game.Players.LocalPlayer:Kick("请加入刺客白名单  官方QQ群637340150")
 end
