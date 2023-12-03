@@ -117,9 +117,9 @@ if game.PlaceId == 8888615802 or game.PlaceId == 13622981808 then
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
 msg.Text = "正在加载彩虹好友"
-wait(6)
+wait(3)
 msg:remove()
-wait(6)
+wait(3)
 
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%BD%A9.lua"))()
 -----------------------
@@ -127,9 +127,9 @@ elseif game.PlaceId == 13772394625 then
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
 msg.Text = "正在加载刀刃球"
-wait(6)
+wait(3)
 msg:remove()
-wait(6)
+wait(3)
 
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%88%80.lua"))()
 ---------------------
@@ -138,9 +138,9 @@ elseif game.PlaceId == 3956818381 then
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
 msg.Text = "正在加载忍者传奇"
-wait(6)
+wait(3)
 msg:remove()
-wait(6)
+wait(3)
 
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%BF%8D.lua"))()
 
@@ -149,9 +149,9 @@ elseif game.PlaceId == 7239319209 then
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
 msg.Text = "正在加载俄亥俄州"
-wait(6)
+wait(3)
 msg:remove()
-wait(6)
+wait(3)
 
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E4%BF%84.lua"))()
     
@@ -160,9 +160,9 @@ elseif game.PlaceId == 9649680488 then
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
 msg.Text = "正在加载后厅竞赛"
-wait(6)
+wait(3)
 msg:remove()
-wait(6)
+wait(3)
 
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%90%8E.lua"))()
     
@@ -171,9 +171,9 @@ elseif game.PlaceId == 155615604 then
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
 msg.Text = "正在加载监狱人生"
-wait(6)
+wait(3)
 msg:remove()
-wait(6)
+wait(3)
 
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E7%9B%91.lua"))()
     
@@ -182,9 +182,9 @@ elseif game.PlaceId == 3101667897 then
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
 msg.Text = "正在加载极速传奇"
-wait(6)
+wait(3)
 msg:remove()
-wait(6)
+wait(3)
 
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E6%9E%81.lua"))()
     
@@ -193,9 +193,9 @@ wait(6)
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
 msg.Text = "正在加载力量传奇"
-wait(6)
+wait(3)
 msg:remove()
-wait(6)
+wait(3)
 
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%8A%9B.lua"))()
      
@@ -203,10 +203,10 @@ wait(6)
 else
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
-msg.Text = "识别到您所在的服务器未开发脚本自动启动SF通用功能"
-wait(6)
+msg.Text = "识别到您所在的服务器未开发脚本自动启动刺客通用功能"
+wait(3)
 msg:remove()
-wait(6)
+wait(3)
 
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
