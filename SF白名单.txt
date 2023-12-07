@@ -97,6 +97,18 @@ if game.Players.LocalPlayer.Name == "用户19" then Con = true end
 
 if game.Players.LocalPlayer.Name == "用户20" then Con = true end
 
+if game.Players.LocalPlayer.Name == "用户21" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户22" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户23" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户24" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户25" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户26" then Con = true end
+
 if Con == true then
 
 msg = Instance.new("Message")
@@ -184,7 +196,7 @@ Notification:Notify(
 
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E6%9E%81.lua"))()
     
-   elseif game.PlaceId == 3623096087 then
+       elseif game.PlaceId == 3623096087 then
 
 Notification:Notify(
     {Title = "力量传奇", Description = "加载中…"},
@@ -203,6 +215,17 @@ Notification:Notify(
 )
 
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E5%A5%8E.lua"))()
+    
+        elseif game.PlaceId == 1537690962 then
+
+Notification:Notify(
+    {Title = "蜂群模拟器", Description = "加载中…"},
+    {OutlineColor = Color3.fromRGB(100,150,255),Time = 3, Type = "image"},
+    {Image = "http://www.roblox.com/asset/?id=15509623662", ImageColor = Color3.fromRGB(255, 255, 255)}
+)
+
+    loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E8%9C%82.lua"))()
+    
     
 else
 Notification:Notify(
