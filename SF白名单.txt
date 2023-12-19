@@ -109,6 +109,30 @@ if game.Players.LocalPlayer.Name == "eys1982" then Con = true end
 
 if game.Players.LocalPlayer.Name == "chenziyu223" then Con = true end
 
+if game.Players.LocalPlayer.Name == "ljh10136" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户16" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户17" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户18" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户19" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户20" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户21" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户22" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户23" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户24" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户25" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户26" then Con = true end
+
 if Con == true then
 
 msg = Instance.new("Message")
