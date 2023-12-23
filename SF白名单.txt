@@ -23,7 +23,7 @@ if game.Players.LocalPlayer.Name == "qwq114514sansqwq" then Con = true end
 
 if game.Players.LocalPlayer.Name == "twoha114514" then Con = true end
 
-if game.Players.LocalPlayer.Name == "riteghgtgh" then Con = true end
+if game.Players.LocalPlayer.Name == "How_TFBOY" then Con = true end
 
 if game.Players.LocalPlayer.Name == "yhgfgvc6" then Con = true end
 
