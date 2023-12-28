@@ -131,7 +131,49 @@ if game.Players.LocalPlayer.Name == "kpqccc" then Con = true end
 
 if game.Players.LocalPlayer.Name == "didiao8" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户26" then Con = true end
+if game.Players.LocalPlayer.Name == "Ddd1237544" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Name == "用户" then Con = true end
 
 if Con == true then
 
