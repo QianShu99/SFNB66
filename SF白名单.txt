@@ -179,7 +179,7 @@ if Con == true then
 
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
-msg.Text = "支持游戏 刀刃球 忍者传奇 后厅竞赛\n监狱人生 极速传奇 俄亥俄州 彩虹好友\n力量传奇 奎尔湖 蜂群模拟器 RaceClicke 幸运方块"
+msg.Text = "支持游戏 刀刃球 忍者传奇 后厅竞赛\n监狱人生 极速传奇 俄亥俄州 彩虹好友\n力量传奇 奎尔湖 蜂群模拟器 RaceClicke 幸运方块\n举重模拟器"
 wait(2)
 msg:remove()
 wait(2)
