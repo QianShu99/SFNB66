@@ -109,7 +109,7 @@ if game.Players.LocalPlayer.Name == "eys1982" then Con = true end
 
 if game.Players.LocalPlayer.Name == "chenziyu223" then Con = true end
 
-if game.Players.LocalPlayer.Name == "ljh10136" then Con = true end
+if game.Players.LocalPlayer.Name == "NHGngedYx" then Con = true end
 
 if game.Players.LocalPlayer.Name == "XcbnXE" then Con = true end
 
