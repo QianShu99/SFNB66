@@ -239,7 +239,7 @@ if Con == true then
 
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
-msg.Text = "支持游戏 刀刃球 忍者传奇 后厅竞赛\n监狱人生 极速传奇 俄亥俄州 彩虹好友\n力量传奇 奎尔湖 蜂群模拟器 RaceClicke 幸运方块\n举重模拟器 自然灾害"
+msg.Text = "支持游戏 刀刃球 忍者传奇 后厅竞赛\n监狱人生 极速传奇 俄亥俄州 彩虹好友\n力量传奇 奎尔湖 蜂群模拟器 RaceClicke 幸运方块\n举重模拟器 自然灾害 造船寻宝"
 wait(2)
 msg:remove()
 wait(2)
@@ -301,6 +301,16 @@ Notification:Notify(
 )
 
     loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E8%87%AA.lua"))()
+---------------------
+elseif game.PlaceId == 537413528 then
+
+Notification:Notify(
+    {Title = "造船寻宝", Description = "加载中…"},
+    {OutlineColor = Color3.fromRGB(100,150,255),Time = 3, Type = "image"},
+    {Image = "http://www.roblox.com/asset/?id=15509623662", ImageColor = Color3.fromRGB(255, 255, 255)}
+)
+
+    loadstring(game:HttpGet("https://raw.github.com/QianShu99/SFNB66/main/%E9%80%A0.lua"))()
 ---------------------
 
 elseif game.PlaceId == 7239319209 then
