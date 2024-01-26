@@ -195,7 +195,7 @@ if game.Players.LocalPlayer.Name == "kschenshi" then Con = true end
 
 if game.Players.LocalPlayer.Name == "wcjyydsnb" then Con = true end
 
-if game.Players.LocalPlayer.Name == "用户" then Con = true end
+if game.Players.LocalPlayer.Name == "lioa_pol" then Con = true end
 
 if game.Players.LocalPlayer.Name == "用户" then Con = true end
 
