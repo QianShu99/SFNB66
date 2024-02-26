@@ -1,9 +1,319 @@
 local NotificationHolder = loadstring(game:HttpGet("https://pastebin.com/raw/KWePWhuF"))()
 local Notification = loadstring(game:HttpGet("https://pastebin.com/raw/WiSeepVm"))()
 
+if game.Players.LocalPlayer.Character.Name == "YUHY8888" then Con = true end
+ 
 if game.Players.LocalPlayer.Character.Name == "JIAXUANmm" then Con = true end
 
-if Con == true then
+if game.Players.LocalPlayer.Character.Name == "Awing707" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "Awing307" then Con = true end 
+
+if game.Players.LocalPlayer.Character.Name == "asdmnb956" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "8umoghgghh" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "hvcgibn" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "54sz6" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "otplatitidk" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "qwq114514sansqwq" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "twoha114514" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "How_TFBOY" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "yhgfgvc6" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "jsnxvxos" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "Qianglingkou" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "jdjssjjsjsjs9" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "ks_yangnb6666" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "cn_kaka11" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "AAA_XIAOCH" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "fxxhhhhc" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "SY_shiyu" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "qp112486ZM" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "SFJBOO" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "Chinajvcygfhg" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "hai_haic" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "lyylovewsy" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "JNTMyuu" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "BHan_N" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "hh2687559ljh5" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "ikunzhyfd" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "clk_1233" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "CNSHPLMNF" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "udxcgrdx" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "CN_MTBC" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "KGFHEDDD" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "ppx_nb666" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "lxm645" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "ThePeltTMT" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "hgghhhbbbbbbbbbbb" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "wosixxz" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "h2687559ljh" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "4v5n7n" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "113107hjb" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "yyfssb5" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "wowowowo45668" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "Circlenumberis" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "ikun6663339" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "shuiyuyyds" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "xhydsg12" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "and86868" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "wsndnbja" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "jxjnxjjzk" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "eys1982" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "chenziyu223" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "NHGngedYx" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "XcbnXE" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "HXYWDL" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "spring654188" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "wyh123909" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "wyh123808" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "wsmnbhb" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "hh18254" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "Afuhwjse" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "kpqccc" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "didiao8" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "ink88848" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "thegreenplayer023" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "159357ljf" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "xiyanzzz" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "Simpsons367" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "qqq13433" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "T0_baobao" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "1q2w3e4rhhhhh" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "xyh166666" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "stgsh44" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "yhiedsb" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "15915955484azAZ" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "jeuebebb14" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "xiaoqi520111" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "BHKngedqx" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "jgxgik" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "kgujhv2" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "UHDnzaeo2" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "425azxc" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "yangzeiiiii" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "hh159249" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "Ttiimg" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "Experience413" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "gockkvk" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "zhhsu3" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "GFKIGUIO" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "jgvvughg" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "RRRRYeeeeeeeeeeeeeee" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "SB55358" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "wrqyuquwh" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "kschenshi" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "wcjyydsnb" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "lioa_zjk" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "SOW_916" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "xiyangxia" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "Wjx2468" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "gsgg489" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "mxkakmm" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "Waoecvoer" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "qwertu46731875" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "CNcongyu520" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "Dishxjcf" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "wjfxchyf55" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "iihhhjjjhvgjijny" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "jdstkstk" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "jiajxbcc" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "LiuYuMo121" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "liyu_88" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "147369ty" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "jsjwjdjxijww" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+
+if Con == true and game.Players.LocalPlayer:IsInGroup(33930931) then
 
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
@@ -191,5 +501,5 @@ Notification:Notify(
 end
 
 else
-   game.Players.LocalPlayer:Kick("请购买刺客付费版")
+   game.Players.LocalPlayer:Kick("您未加入白名单或群组")
 end
