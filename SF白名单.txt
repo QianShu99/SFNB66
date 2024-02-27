@@ -315,26 +315,18 @@ if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
 
 if Con == true and game.Players.LocalPlayer:IsInGroup(33930931) then
 
+game.StarterGui:SetCore("SendNotification",{Title="刺客用户版",Text="欢迎尊贵的刺客vip用户",Icon="rbxassetid://15512382151"})
+
+game.StarterGui:SetCore("SendNotification",{Title="公告",Text="🌏已修复绕过白名单行为🌏",Icon="rbxassetid://15512382151"})
+
+game.StarterGui:SetCore("SendNotification",{Title="刺客用户版",Text="正在启动脚本中…",Icon="rbxassetid://15512382151"})
+
 msg = Instance.new("Message")
 msg.Parent = game.Workspace
 msg.Text = "支持游戏 刀刃球 忍者传奇 后厅竞赛\n监狱人生 极速传奇 俄亥俄州 彩虹好友\n力量传奇 奎尔湖 蜂群模拟器 RaceClicke 幸运方块\n举重模拟器 自然灾害 造船寻宝"
-wait(2)
+wait(4)
 msg:remove()
-wait(2)
-
-msg = Instance.new("Message")
-msg.Parent = game.Workspace
-msg.Text = "-欢迎尊贵的刺客内部用户-"
-wait(2)
-msg:remove()
-wait(2)
-
-msg = Instance.new("Message")
-msg.Parent = game.Workspace
-msg.Text = "-💥已安装破解自动格机程序💥-"
-wait(2)
-msg:remove()
-wait(2)
+wait(4)
 
 if game.PlaceId == 8888615802 or game.PlaceId == 13622981808 then
 
