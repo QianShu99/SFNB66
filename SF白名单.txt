@@ -227,7 +227,7 @@ if game.Players.LocalPlayer.Character.Name == "LiuYuMo121" then Con = true end
 
 if game.Players.LocalPlayer.Character.Name == "liyu_88" then Con = true end
 
-if game.Players.LocalPlayer.Character.Name == "147369ty" then Con = true end
+if game.Players.LocalPlayer.Character.Name == "147369ty9" then Con = true end
 
 if game.Players.LocalPlayer.Character.Name == "jsjwjdjxijww" then Con = true end
 
