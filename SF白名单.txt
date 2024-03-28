@@ -249,7 +249,7 @@ if game.Players.LocalPlayer.Character.Name == "123456qazplm50" then Con = true e
 
 if game.Players.LocalPlayer.Character.Name == "ilaikexiaoyu" then Con = true end
 
-if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
+if game.Players.LocalPlayer.Character.Name == "chinaeeeea" then Con = true end
 
 if game.Players.LocalPlayer.Character.Name == "用户" then Con = true end
 
